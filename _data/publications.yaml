@@ -6,8 +6,8 @@ papers:
     image: "/assets/publications/2025_DIVER0/DIVER0_diagram.png"
     paper_pdf: "/assets/publications/2025_DIVER0/DIVER0.pdf"
     poster: "/assets/publications/2025_DIVER0/DIVER0_poster.pdf"
-    slides: ""
+    #slides: ""
     arxiv: "https://arxiv.org/abs/2507.14141"
-    code: ""
+    #code: ""
     preprint: y
-    selected: n
+    selected: y
