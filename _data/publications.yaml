@@ -2,7 +2,7 @@ papers:
 
   - title: "DIVER-0: A Fully Channel Equivariant EEG Foundation Model"
     authors: "Danny Dongyeop Han*, Ahhyun Lucy Lee*, Taeyang Lee*, Yonghyeon Gwon*, <b>Sebin Lee<span style='font-size: 20px;''>*</span></b>, Seongjin Lee*, David Keetae Park, Shinjae Yoo, Jiook Cha, Chun Kee Chung"
-    venue: "ICML'25 Workshop"
+    venue: "ICML'25 2nd Generative AI for Biology Workshop"
     image: "/assets/publications/2025_DIVER0/DIVER0_diagram.png"
     paper_pdf: "/assets/publications/2025_DIVER0/DIVER0.pdf"
     poster: "/assets/publications/2025_DIVER0/DIVER0_poster.pdf"
